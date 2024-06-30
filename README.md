@@ -26,6 +26,7 @@ Feature Utilization: To effectively use the features available in the Spotify da
 
 ## Model Building using cosine similarity:
 Cosine similarity measures the similarity between two vectors of an inner product space. It is measured by the cosine of the angle between two vectors and determines whether two vectors are pointing in roughly the same direction. It is often used to measure document similarity in text analysis and recommendations.
+![cosine-similarity-vectors original](https://github.com/abinashsahoo007/Project-Song-Recommendation-System/assets/174187930/f6b195dc-7416-43ce-8c0e-74512ff89058)
 
 ## Final Deployment Page:
 ![Screenshot 2024-06-30 150144](https://github.com/abinashsahoo007/Project-Song-Recommendation-System/assets/174187930/f0832a38-83b6-4628-828a-5f5679948ec4)

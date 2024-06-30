@@ -3,6 +3,8 @@ Recommendation systems in the present have the main objectives of providing pers
 
 # Business Problem:
 Developing an innovative music recommendation system that effectively predicts and suggests personalized music playlists to users based on their individual preferences, listening history, mood, and contextual factors, thereby enhancing user engagement, satisfaction, and retention within our music streaming platform.
+>
+The objective of this project is to build a feature of recommendation system to support a music app. As the first phase we need to develop the proof of concept to make the client understand how effective the feature could be.
 
 # Objective:
 The primary objectives of this Music Recommendation System project are as follows:

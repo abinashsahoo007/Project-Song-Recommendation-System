@@ -1,7 +1,7 @@
 # Project-Song-Recommendation-System
 Recommendation systems in the present have the main objectives of providing personalized suggestions to users, making their lives easier, and helping them make appropriate decisions. These systems aim to suggest items or resources that are most relevant to the user's interests and needs.
 
-## Presentation:
+## Project Presentation:
 [View the ppt](https://docs.google.com/presentation/d/1EX0RMsQkldZa8Ix7pR0USXYfs5zdl7wo/edit#slide=id.p1)
 
 # Business Problem:
@@ -24,7 +24,7 @@ Feature Utilization: To effectively use the features available in the Spotify da
 ## Project Flow:
 ![Screenshot 2024-06-30 145308](https://github.com/abinashsahoo007/Project-Song-Recommendation-System/assets/174187930/053baef3-3c4a-426b-a4e8-d671c2653051)
 
-## Model Building:
+## Model Building using cosine similarity:
 Cosine similarity measures the similarity between two vectors of an inner product space. It is measured by the cosine of the angle between two vectors and determines whether two vectors are pointing in roughly the same direction. It is often used to measure document similarity in text analysis and recommendations.
 
 ## Final Deployment Page:

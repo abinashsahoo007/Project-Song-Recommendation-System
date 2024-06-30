@@ -21,14 +21,14 @@ Feature Utilization: To effectively use the features available in the Spotify da
 6. **Data Analysis:** To perform comprehensive data analysis to understand user behavior and song popularity, which in turn can improve the recommendation engine.
 7. **Continuous Learning:** To implement a system that learns over time, improving its recommendations as it gains more data on user preferences.
 
-## Project Flow:
+# Project Flow:
 ![Screenshot 2024-06-30 145308](https://github.com/abinashsahoo007/Project-Song-Recommendation-System/assets/174187930/053baef3-3c4a-426b-a4e8-d671c2653051)
 
-## Model Building using cosine similarity:
+# Model Building using cosine similarity:
 Cosine similarity measures the similarity between two vectors of an inner product space. It is measured by the cosine of the angle between two vectors and determines whether two vectors are pointing in roughly the same direction. It is often used to measure document similarity in text analysis and recommendations.
 ![cosine-similarity-vectors original](https://github.com/abinashsahoo007/Project-Song-Recommendation-System/assets/174187930/f6b195dc-7416-43ce-8c0e-74512ff89058)
 
-## Final Deployment Page:
+# Final Deployment Page:
 ![Screenshot 2024-06-30 150144](https://github.com/abinashsahoo007/Project-Song-Recommendation-System/assets/174187930/f0832a38-83b6-4628-828a-5f5679948ec4)
 
 

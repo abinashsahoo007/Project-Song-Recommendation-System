@@ -9,3 +9,11 @@ The objective of this project is to build a feature of recommendation system to 
 
 ## Project Flow
 ![Screenshot 2024-06-30 145308](https://github.com/abinashsahoo007/Project-Song-Recommendation-System/assets/174187930/053baef3-3c4a-426b-a4e8-d671c2653051)
+
+## Model Building
+Cosine similarity measures the similarity between two vectors of an inner product space. It is measured by the cosine of the angle between two vectors and determines whether two vectors are pointing in roughly the same direction. It is often used to measure document similarity in text analysis and recommendations.
+
+## Final Deployment Page:
+
+
+

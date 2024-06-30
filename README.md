@@ -1,8 +1,6 @@
 # Project-Song-Recommendation-System
 Recommendation systems in the present have the main objectives of providing personalized suggestions to users, making their lives easier, and helping them make appropriate decisions. These systems aim to suggest items or resources that are most relevant to the user's interests and needs.
 
-https://github.com/abinashsahoo007/Project-Song-Recommendation-System/blob/main/Recommendation_System%20PPT.pptx
-
 # Business Problem:
 Developing an innovative music recommendation system that effectively predicts and suggests personalized music playlists to users based on their individual preferences, listening history, mood, and contextual factors, thereby enhancing user engagement, satisfaction, and retention within our music streaming platform.
 >

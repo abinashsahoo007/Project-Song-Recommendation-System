@@ -6,3 +6,6 @@ Developing an innovative music recommendation system that effectively predicts a
 
 # Objective:
 The objective of this project is to build a feature of recommendation system to support a music app. As the first phase we need to develop the proof of concept to make the client understand how effective the feature could be.POC for Recommendation Engine for a Yoga, Relaxation or Devotional Songs Music application targeted for Indian users.
+
+## Project Flow
+![Screenshot 2024-06-30 145308](https://github.com/abinashsahoo007/Project-Song-Recommendation-System/assets/174187930/053baef3-3c4a-426b-a4e8-d671c2653051)
